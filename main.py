@@ -24,11 +24,18 @@ async def post_Reference(reference:Reference):
     try:
         ref = reference.reference
         a = ExternalServs()
-        ls = []
         final_output = []
-        for i in ref:
-            ls.append(i)
-            js = a.ExternalSearch((ls))
+        interval = 5
+        flist = []
+        for i in range(0, len(ref), interval):
+            sub_list = ref[i:i + interval]
+            flist.append((sub_list))
+        for v in flist:
+            print(v)
+            print('####')
+
+        for i in flist:
+            js = a.ExternalSearch(i)
             for pq in js:
                 if pq.get('CompleteReference') == 'true' and pq.get('SearchSystem') == 'PubMed':
                     if pq.get("InternalBibId") is not None:
@@ -141,7 +148,7 @@ async def post_Reference(reference:Reference):
                         final_output.append(
                             {"id": Id, 'Status': status, 'PubMedId': PubMedId, "Sliced_Reference": dict01,
                              "Structured_Reference": res, "Track_Changes_Reference": td})
-                        break
+                        continue
 
                     elif pq.get('type'.lower()) == 'book':
                         mongodbinsertbook = []
@@ -273,7 +280,9 @@ async def post_Reference(reference:Reference):
                         final_output.append(
                             {"id": Id, 'Status': status, 'PubMedId': PubMedId, "Sliced_Reference": dict01,
                              "Structured_Reference": res, "Track_Changes_Reference": td})
-                        break
+                        
+                        continue
+
 
 
 
@@ -389,7 +398,7 @@ async def post_Reference(reference:Reference):
                         final_output.append(
                             {"id": Id, 'Status': status, 'PubMedId': PubMedId, "Sliced_Reference": dict01,
                              "Structured_Reference": res, "Track_Changes_Reference": td})
-                        break
+                        continue
 
                     elif pq.get('type'.lower()) == 'book':
                         mongodbinsertbook = []
@@ -521,7 +530,7 @@ async def post_Reference(reference:Reference):
                         final_output.append(
                             {"id": Id, 'Status': status, 'PubMedId': PubMedId, "Sliced_Reference": dict01,
                              "Structured_Reference": res, "Track_Changes_Reference": td})
-                        break
+                        continue
                 print('*******')
 
             print('#####################################')
