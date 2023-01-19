@@ -1,0 +1,23 @@
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Coaching teachers to improve implementation of the good behavior game. Administration and policy in mental health</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">D</forename><surname>Becker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Bradshaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Domitrovich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">S</forename><surname>Ialongo</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10488-013-0482-8</idno>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="482" to="493" />
+		</imprint>
+	</monogr>
+</biblStruct>
