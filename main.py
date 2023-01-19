@@ -25,7 +25,7 @@ async def post_Reference(reference:Reference):
         ref = reference.reference
         a = ExternalServs()
         final_output = []
-        interval = 5
+        interval = 20
         flist = []
         for i in range(0, len(ref), interval):
             sub_list = ref[i:i + interval]
@@ -33,10 +33,12 @@ async def post_Reference(reference:Reference):
         for v in flist:
             print(v)
             print('####')
-
+        bibid = ''
         for i in flist:
             js = a.ExternalSearch(i)
             for pq in js:
+                if pq.get('InternalBibId') == bibid:
+                    continue
                 if pq.get('CompleteReference') == 'true' and pq.get('SearchSystem') == 'PubMed':
                     if pq.get("InternalBibId") is not None:
                         Id = pq['InternalBibId']
@@ -148,6 +150,7 @@ async def post_Reference(reference:Reference):
                         final_output.append(
                             {"id": Id, 'Status': status, 'PubMedId': PubMedId, "Sliced_Reference": dict01,
                              "Structured_Reference": res, "Track_Changes_Reference": td})
+                        bibid = Id
                         continue
 
                     elif pq.get('type'.lower()) == 'book':
@@ -280,7 +283,7 @@ async def post_Reference(reference:Reference):
                         final_output.append(
                             {"id": Id, 'Status': status, 'PubMedId': PubMedId, "Sliced_Reference": dict01,
                              "Structured_Reference": res, "Track_Changes_Reference": td})
-                        
+                        bibid = Id
                         continue
 
 
@@ -398,6 +401,7 @@ async def post_Reference(reference:Reference):
                         final_output.append(
                             {"id": Id, 'Status': status, 'PubMedId': PubMedId, "Sliced_Reference": dict01,
                              "Structured_Reference": res, "Track_Changes_Reference": td})
+                        bibid = Id
                         continue
 
                     elif pq.get('type'.lower()) == 'book':
@@ -530,6 +534,7 @@ async def post_Reference(reference:Reference):
                         final_output.append(
                             {"id": Id, 'Status': status, 'PubMedId': PubMedId, "Sliced_Reference": dict01,
                              "Structured_Reference": res, "Track_Changes_Reference": td})
+                        bibid = Id
                         continue
                 print('*******')
 
