@@ -1,0 +1,489 @@
+19/01/23 17:19:34 INFO 
+
+19/01/23 17:23:42 INFO 
+
+19/01/23 17:24:58 INFO Entered post reference module
+19/01/23 17:25:26 INFO 
+
+19/01/23 17:27:50 INFO 
+
+19/01/23 17:29:17 INFO Entered post reference module
+19/01/23 17:30:13 INFO Entered post reference module
+19/01/23 17:32:23 INFO 
+
+19/01/23 18:57:58 INFO 
+
+19/01/23 19:02:09 INFO 
+
+19/01/23 19:02:58 INFO Entered post reference module
+19/01/23 19:02:58 INFO reflist is ready for web scraping(External Search)
+19/01/23 19:02:58 INFO input references no.:3
+19/01/23 19:02:58 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+19/01/23 19:04:41 DEBUG https://irefservices.icodex.in:443 "POST /find/references HTTP/1.1" 200 30453
+19/01/23 19:04:42 INFO bibid entered : 
+19/01/23 19:04:42 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+19/01/23 19:04:42 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 548
+19/01/23 19:04:42 INFO bibid entered : bib1
+19/01/23 19:04:42 INFO bibid entered : bib1
+19/01/23 19:04:42 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+19/01/23 19:04:42 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 484
+19/01/23 19:04:42 INFO bibid entered : bib2
+19/01/23 19:04:42 INFO bibid entered : bib2
+19/01/23 19:04:42 INFO bibid entered : bib2
+19/01/23 19:04:42 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+19/01/23 19:04:42 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 535
+19/01/23 19:04:42 INFO bibid entered : bib3
+19/01/23 19:04:42 INFO bibid entered : bib3
+19/01/23 19:04:42 INFO json pack processed
+19/01/23 19:04:42 INFO exiting program execution
+20/01/23 13:28:49 INFO
+
+
+20/01/23 14:56:45 INFO Entered post reference module
+20/01/23 14:56:45 INFO reflist is ready for web scraping(External Search)
+20/01/23 14:56:45 INFO input references no.:1
+20/01/23 14:56:45 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 15:04:11 INFO Entered post reference module
+20/01/23 15:04:11 INFO reflist is ready for web scraping(External Search)
+20/01/23 15:04:11 INFO input references no.:1
+20/01/23 15:04:11 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 15:12:45 INFO 
+
+20/01/23 15:13:04 INFO Entered post reference module
+20/01/23 15:13:04 INFO reflist is ready for web scraping(External Search)
+20/01/23 15:13:04 INFO input references no.:3
+20/01/23 15:13:04 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 15:13:25 INFO Exception: HTTPSConnectionPool(host='irefservices.icodex.in', port=443): Max retries exceeded with url: /find/references (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000272207A9CD0>: Failed to establish a new connection: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond'))
+20/01/23 16:13:27 INFO Entered post reference module
+20/01/23 16:13:27 INFO reflist is ready for web scraping(External Search)
+20/01/23 16:13:27 INFO input references no.:3
+20/01/23 16:13:27 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:14:22 DEBUG https://irefservices.icodex.in:443 "POST /find/references HTTP/1.1" 200 30453
+20/01/23 16:14:23 INFO bibid entered : 
+20/01/23 16:14:23 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:14:23 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 548
+20/01/23 16:14:23 INFO bibid entered : bib1
+20/01/23 16:14:23 INFO bibid entered : bib1
+20/01/23 16:14:23 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:14:23 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 484
+20/01/23 16:14:23 INFO bibid entered : bib2
+20/01/23 16:14:23 INFO bibid entered : bib2
+20/01/23 16:14:23 INFO bibid entered : bib2
+20/01/23 16:14:23 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:14:23 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 535
+20/01/23 16:14:23 INFO bibid entered : bib3
+20/01/23 16:14:23 INFO bibid entered : bib3
+20/01/23 16:14:23 INFO json pack processed
+20/01/23 16:14:23 INFO exiting program execution
+20/01/23 16:14:53 INFO 
+
+20/01/23 16:15:09 INFO Entered post reference module
+20/01/23 16:15:09 INFO reflist is ready for web scraping(External Search)
+20/01/23 16:15:09 INFO input references no.:3
+20/01/23 16:15:09 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:16:06 DEBUG https://irefservices.icodex.in:443 "POST /find/references HTTP/1.1" 200 30453
+20/01/23 16:16:06 INFO bibid entered : 
+20/01/23 16:16:06 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:16:06 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 548
+20/01/23 16:16:06 INFO bibid entered : bib1
+20/01/23 16:16:06 INFO bibid entered : bib1
+20/01/23 16:16:06 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:16:07 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 484
+20/01/23 16:16:07 INFO bibid entered : bib2
+20/01/23 16:16:07 INFO bibid entered : bib2
+20/01/23 16:16:07 INFO bibid entered : bib2
+20/01/23 16:16:07 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:16:07 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 535
+20/01/23 16:16:07 INFO bibid entered : bib3
+20/01/23 16:16:07 INFO bibid entered : bib3
+20/01/23 16:16:07 INFO json pack processed
+20/01/23 16:16:07 INFO exiting program execution
+20/01/23 16:36:25 INFO Entered post reference module
+20/01/23 16:36:27 INFO reflist is ready for web scraping(External Search)
+20/01/23 16:36:27 INFO input references no.:20
+20/01/23 16:36:27 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:40:01 DEBUG https://irefservices.icodex.in:443 "POST /find/references HTTP/1.1" 200 159912
+20/01/23 16:40:01 INFO bibid entered : 
+20/01/23 16:40:01 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:40:01 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 470
+20/01/23 16:40:01 INFO bibid entered : Bib_12404189
+20/01/23 16:40:01 INFO bibid entered : Bib_12404189
+20/01/23 16:40:01 INFO bibid entered : Bib_12404189
+20/01/23 16:40:01 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:40:01 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 549
+20/01/23 16:40:01 INFO bibid entered : Bib_12404190
+20/01/23 16:40:01 INFO bibid entered : Bib_12404190
+20/01/23 16:40:01 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:40:01 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 557
+20/01/23 16:40:01 INFO bibid entered : Bib_12404191
+20/01/23 16:40:01 INFO bibid entered : Bib_12404191
+20/01/23 16:40:01 INFO bibid entered : Bib_12404191
+20/01/23 16:40:01 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:40:01 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 486
+20/01/23 16:40:01 INFO bibid entered : Bib_12404192
+20/01/23 16:40:01 INFO bibid entered : Bib_12404192
+20/01/23 16:40:01 INFO bibid entered : Bib_12404192
+20/01/23 16:40:01 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:40:01 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 495
+20/01/23 16:40:01 INFO bibid entered : Bib_12404193
+20/01/23 16:40:01 INFO bibid entered : Bib_12404193
+20/01/23 16:40:01 INFO bibid entered : Bib_12404193
+20/01/23 16:40:01 INFO bibid entered : Bib_12404193
+20/01/23 16:40:01 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:40:01 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 477
+20/01/23 16:40:01 INFO bibid entered : Bib_12404195
+20/01/23 16:40:01 INFO bibid entered : Bib_12404195
+20/01/23 16:40:01 INFO bibid entered : Bib_12404195
+20/01/23 16:40:01 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:40:01 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 510
+20/01/23 16:40:01 INFO bibid entered : Bib_12404196
+20/01/23 16:40:01 INFO bibid entered : Bib_12404196
+20/01/23 16:40:01 INFO bibid entered : Bib_12404196
+20/01/23 16:40:01 INFO bibid entered : Bib_12404196
+20/01/23 16:40:01 INFO bibid entered : Bib_12404196
+20/01/23 16:40:01 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:40:01 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 535
+20/01/23 16:40:01 INFO bibid entered : Bib_12404198
+20/01/23 16:40:01 INFO bibid entered : Bib_12404198
+20/01/23 16:40:01 INFO bibid entered : Bib_12404198
+20/01/23 16:40:01 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:40:02 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 434
+20/01/23 16:40:02 INFO bibid entered : Bib_12404199
+20/01/23 16:40:02 INFO bibid entered : Bib_12404199
+20/01/23 16:40:02 INFO bibid entered : Bib_12404199
+20/01/23 16:40:02 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:40:02 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 707
+20/01/23 16:40:02 INFO bibid entered : Bib_12404200
+20/01/23 16:40:02 INFO bibid entered : Bib_12404200
+20/01/23 16:40:02 INFO bibid entered : Bib_12404200
+20/01/23 16:40:02 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:40:03 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 630
+20/01/23 16:40:03 INFO bibid entered : Bib_12404201
+20/01/23 16:40:03 INFO bibid entered : Bib_12404201
+20/01/23 16:40:03 INFO bibid entered : Bib_12404201
+20/01/23 16:40:03 INFO bibid entered : Bib_12404201
+20/01/23 16:40:03 INFO bibid entered : Bib_12404201
+20/01/23 16:40:03 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:40:03 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 631
+20/01/23 16:40:03 INFO bibid entered : Bib_12404203
+20/01/23 16:40:03 INFO bibid entered : Bib_12404203
+20/01/23 16:40:03 INFO bibid entered : Bib_12404203
+20/01/23 16:40:03 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:40:03 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 507
+20/01/23 16:40:03 INFO bibid entered : Bib_12404204
+20/01/23 16:40:03 INFO bibid entered : Bib_12404204
+20/01/23 16:40:03 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:40:03 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 586
+20/01/23 16:40:03 INFO bibid entered : Bib_12404205
+20/01/23 16:40:03 INFO bibid entered : Bib_12404205
+20/01/23 16:40:03 INFO bibid entered : Bib_12404205
+20/01/23 16:40:03 INFO bibid entered : Bib_12404205
+20/01/23 16:40:03 INFO bibid entered : Bib_12404205
+20/01/23 16:40:03 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:40:03 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 563
+20/01/23 16:40:03 INFO bibid entered : Bib_12404207
+20/01/23 16:40:03 INFO bibid entered : Bib_12404207
+20/01/23 16:40:03 INFO bibid entered : Bib_12404207
+20/01/23 16:40:03 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:40:03 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 624
+20/01/23 16:40:03 INFO bibid entered : Bib_12404208
+20/01/23 16:40:03 INFO json pack processed
+20/01/23 16:40:03 INFO input references no.:20
+20/01/23 16:40:03 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:42:58 DEBUG https://irefservices.icodex.in:443 "POST /find/references HTTP/1.1" 200 188930
+20/01/23 16:42:58 INFO bibid entered : Bib_12404208
+20/01/23 16:42:58 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:42:58 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 535
+20/01/23 16:42:58 INFO bibid entered : Bib_12404209
+20/01/23 16:42:58 INFO bibid entered : Bib_12404209
+20/01/23 16:42:58 INFO bibid entered : Bib_12404209
+20/01/23 16:42:58 INFO bibid entered : Bib_12404209
+20/01/23 16:42:58 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:42:58 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 548
+20/01/23 16:42:58 INFO bibid entered : Bib_12404210
+20/01/23 16:42:58 INFO bibid entered : Bib_12404210
+20/01/23 16:42:58 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:42:59 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 446
+20/01/23 16:42:59 INFO bibid entered : Bib_12404211
+20/01/23 16:42:59 INFO bibid entered : Bib_12404211
+20/01/23 16:42:59 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:42:59 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 477
+20/01/23 16:42:59 INFO bibid entered : Bib_12404212
+20/01/23 16:42:59 INFO bibid entered : Bib_12404212
+20/01/23 16:42:59 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:42:59 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 497
+20/01/23 16:42:59 INFO bibid entered : Bib_12404213
+20/01/23 16:42:59 INFO bibid entered : Bib_12404213
+20/01/23 16:42:59 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:42:59 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 532
+20/01/23 16:42:59 INFO bibid entered : Bib_12404214
+20/01/23 16:42:59 INFO bibid entered : Bib_12404214
+20/01/23 16:42:59 INFO bibid entered : Bib_12404214
+20/01/23 16:42:59 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:42:59 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 690
+20/01/23 16:42:59 INFO bibid entered : Bib_12404215
+20/01/23 16:42:59 INFO bibid entered : Bib_12404215
+20/01/23 16:42:59 INFO bibid entered : Bib_12404215
+20/01/23 16:42:59 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:42:59 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 539
+20/01/23 16:42:59 INFO bibid entered : Bib_12404216
+20/01/23 16:42:59 INFO bibid entered : Bib_12404216
+20/01/23 16:42:59 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:42:59 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 535
+20/01/23 16:42:59 INFO bibid entered : Bib_12404217
+20/01/23 16:42:59 INFO bibid entered : Bib_12404217
+20/01/23 16:42:59 INFO bibid entered : Bib_12404217
+20/01/23 16:42:59 INFO bibid entered : Bib_12404217
+20/01/23 16:42:59 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:42:59 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 450
+20/01/23 16:42:59 INFO bibid entered : Bib_12404218
+20/01/23 16:42:59 INFO bibid entered : Bib_12404218
+20/01/23 16:42:59 INFO bibid entered : Bib_12404218
+20/01/23 16:43:00 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:43:00 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 429
+20/01/23 16:43:00 INFO bibid entered : Bib_12404219
+20/01/23 16:43:00 INFO bibid entered : Bib_12404219
+20/01/23 16:43:00 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:43:00 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 546
+20/01/23 16:43:00 INFO bibid entered : Bib_12404220
+20/01/23 16:43:00 INFO bibid entered : Bib_12404220
+20/01/23 16:43:00 INFO bibid entered : Bib_12404220
+20/01/23 16:43:00 INFO bibid entered : Bib_12404220
+20/01/23 16:43:00 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:43:01 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 532
+20/01/23 16:43:01 INFO bibid entered : Bib_12404221
+20/01/23 16:43:01 INFO bibid entered : Bib_12404221
+20/01/23 16:43:01 INFO bibid entered : Bib_12404221
+20/01/23 16:43:01 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:43:01 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 568
+20/01/23 16:43:01 INFO bibid entered : Bib_12404222
+20/01/23 16:43:01 INFO bibid entered : Bib_12404222
+20/01/23 16:43:01 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:43:01 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 475
+20/01/23 16:43:01 INFO bibid entered : Bib_12404223
+20/01/23 16:43:01 INFO bibid entered : Bib_12404223
+20/01/23 16:43:01 INFO bibid entered : Bib_12404223
+20/01/23 16:43:01 INFO bibid entered : Bib_12404223
+20/01/23 16:43:01 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:43:01 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 596
+20/01/23 16:43:01 INFO bibid entered : Bib_12404224
+20/01/23 16:43:01 INFO bibid entered : Bib_12404224
+20/01/23 16:43:01 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:43:02 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 435
+20/01/23 16:43:02 INFO bibid entered : Bib_12404225
+20/01/23 16:43:02 INFO bibid entered : Bib_12404225
+20/01/23 16:43:02 INFO bibid entered : Bib_12404225
+20/01/23 16:43:02 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:43:02 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 517
+20/01/23 16:43:02 INFO bibid entered : Bib_12404226
+20/01/23 16:43:02 INFO bibid entered : Bib_12404226
+20/01/23 16:43:02 INFO bibid entered : Bib_12404226
+20/01/23 16:43:02 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:43:02 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 560
+20/01/23 16:43:02 INFO bibid entered : Bib_12404227
+20/01/23 16:43:02 INFO bibid entered : Bib_12404227
+20/01/23 16:43:02 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:43:02 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 619
+20/01/23 16:43:02 INFO bibid entered : Bib_12404228
+20/01/23 16:43:02 INFO json pack processed
+20/01/23 16:43:02 INFO input references no.:20
+20/01/23 16:43:02 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:45:58 DEBUG https://irefservices.icodex.in:443 "POST /find/references HTTP/1.1" 200 176695
+20/01/23 16:45:58 INFO bibid entered : Bib_12404228
+20/01/23 16:45:58 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:45:58 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 466
+20/01/23 16:45:58 INFO bibid entered : Bib_12404229
+20/01/23 16:45:58 INFO bibid entered : Bib_12404229
+20/01/23 16:45:58 INFO bibid entered : Bib_12404229
+20/01/23 16:45:58 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:45:59 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 493
+20/01/23 16:45:59 INFO bibid entered : Bib_12404230
+20/01/23 16:45:59 INFO bibid entered : Bib_12404230
+20/01/23 16:45:59 INFO bibid entered : Bib_12404230
+20/01/23 16:45:59 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:45:59 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 543
+20/01/23 16:45:59 INFO bibid entered : Bib_12404231
+20/01/23 16:45:59 INFO bibid entered : Bib_12404231
+20/01/23 16:45:59 INFO bibid entered : Bib_12404231
+20/01/23 16:45:59 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:45:59 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 434
+20/01/23 16:45:59 INFO bibid entered : Bib_12404232
+20/01/23 16:45:59 INFO bibid entered : Bib_12404232
+20/01/23 16:45:59 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:45:59 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 451
+20/01/23 16:45:59 INFO bibid entered : Bib_12404233
+20/01/23 16:45:59 INFO bibid entered : Bib_12404233
+20/01/23 16:45:59 INFO bibid entered : Bib_12404233
+20/01/23 16:45:59 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:45:59 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 588
+20/01/23 16:45:59 INFO bibid entered : Bib_12404234
+20/01/23 16:45:59 INFO bibid entered : Bib_12404234
+20/01/23 16:45:59 INFO bibid entered : Bib_12404234
+20/01/23 16:45:59 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:45:59 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 416
+20/01/23 16:45:59 INFO bibid entered : Bib_12404235
+20/01/23 16:45:59 INFO bibid entered : Bib_12404235
+20/01/23 16:45:59 INFO bibid entered : Bib_12404235
+20/01/23 16:45:59 INFO bibid entered : Bib_12404235
+20/01/23 16:45:59 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:45:59 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 450
+20/01/23 16:45:59 INFO bibid entered : Bib_12404236
+20/01/23 16:45:59 INFO bibid entered : Bib_12404236
+20/01/23 16:45:59 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:45:59 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 454
+20/01/23 16:45:59 INFO bibid entered : Bib_12404237
+20/01/23 16:45:59 INFO bibid entered : Bib_12404237
+20/01/23 16:45:59 INFO bibid entered : Bib_12404237
+20/01/23 16:45:59 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:45:59 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 429
+20/01/23 16:45:59 INFO bibid entered : Bib_12404238
+20/01/23 16:45:59 INFO bibid entered : Bib_12404238
+20/01/23 16:45:59 INFO bibid entered : Bib_12404238
+20/01/23 16:45:59 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:46:00 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 468
+20/01/23 16:46:00 INFO bibid entered : Bib_12404239
+20/01/23 16:46:00 INFO bibid entered : Bib_12404239
+20/01/23 16:46:00 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:46:00 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 478
+20/01/23 16:46:00 INFO bibid entered : Bib_12404240
+20/01/23 16:46:00 INFO bibid entered : Bib_12404240
+20/01/23 16:46:00 INFO bibid entered : Bib_12404240
+20/01/23 16:46:00 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:46:00 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 716
+20/01/23 16:46:00 INFO bibid entered : Bib_12404241
+20/01/23 16:46:00 INFO bibid entered : Bib_12404241
+20/01/23 16:46:00 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:46:00 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 471
+20/01/23 16:46:00 INFO bibid entered : Bib_12404242
+20/01/23 16:46:00 INFO bibid entered : Bib_12404242
+20/01/23 16:46:00 INFO bibid entered : Bib_12404242
+20/01/23 16:46:00 INFO bibid entered : Bib_12404242
+20/01/23 16:46:00 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:46:00 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 424
+20/01/23 16:46:00 INFO bibid entered : Bib_12404244
+20/01/23 16:46:00 INFO bibid entered : Bib_12404244
+20/01/23 16:46:00 INFO bibid entered : Bib_12404244
+20/01/23 16:46:00 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:46:00 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 505
+20/01/23 16:46:00 INFO bibid entered : Bib_12404245
+20/01/23 16:46:00 INFO bibid entered : Bib_12404245
+20/01/23 16:46:00 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:46:00 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 536
+20/01/23 16:46:00 INFO bibid entered : Bib_12404246
+20/01/23 16:46:00 INFO bibid entered : Bib_12404246
+20/01/23 16:46:00 INFO bibid entered : Bib_12404246
+20/01/23 16:46:00 INFO bibid entered : Bib_12404246
+20/01/23 16:46:00 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:46:01 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 707
+20/01/23 16:46:01 INFO bibid entered : Bib_12404247
+20/01/23 16:46:01 INFO bibid entered : Bib_12404247
+20/01/23 16:46:01 INFO bibid entered : Bib_12404247
+20/01/23 16:46:01 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:46:01 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 539
+20/01/23 16:46:01 INFO bibid entered : Bib_12404248
+20/01/23 16:46:01 INFO json pack processed
+20/01/23 16:46:01 INFO input references no.:20
+20/01/23 16:46:01 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:49:11 DEBUG https://irefservices.icodex.in:443 "POST /find/references HTTP/1.1" 200 162952
+20/01/23 16:49:11 INFO bibid entered : Bib_12404248
+20/01/23 16:49:11 INFO bibid entered : Bib_12404248
+20/01/23 16:49:11 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:49:12 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 519
+20/01/23 16:49:12 INFO bibid entered : Bib_12404249
+20/01/23 16:49:12 INFO bibid entered : Bib_12404249
+20/01/23 16:49:12 INFO bibid entered : Bib_12404249
+20/01/23 16:49:12 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:49:12 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 434
+20/01/23 16:49:12 INFO bibid entered : Bib_12404250
+20/01/23 16:49:12 INFO bibid entered : Bib_12404250
+20/01/23 16:49:12 INFO bibid entered : Bib_12404250
+20/01/23 16:49:12 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:49:12 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 561
+20/01/23 16:49:12 INFO bibid entered : Bib_12404251
+20/01/23 16:49:12 INFO bibid entered : Bib_12404251
+20/01/23 16:49:12 INFO bibid entered : Bib_12404251
+20/01/23 16:49:12 INFO bibid entered : Bib_12404251
+20/01/23 16:49:12 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:49:12 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 435
+20/01/23 16:49:12 INFO bibid entered : Bib_12404253
+20/01/23 16:49:12 INFO bibid entered : Bib_12404253
+20/01/23 16:49:12 INFO bibid entered : Bib_12404253
+20/01/23 16:49:12 INFO bibid entered : Bib_12404253
+20/01/23 16:49:12 INFO bibid entered : Bib_12404253
+20/01/23 16:49:12 INFO bibid entered : Bib_12404253
+20/01/23 16:49:12 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:49:12 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 541
+20/01/23 16:49:12 INFO bibid entered : Bib_12404255
+20/01/23 16:49:12 INFO bibid entered : Bib_12404255
+20/01/23 16:49:12 INFO bibid entered : Bib_12404255
+20/01/23 16:49:12 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:49:14 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 371
+20/01/23 16:49:14 INFO bibid entered : Bib_12404256
+20/01/23 16:49:14 INFO bibid entered : Bib_12404256
+20/01/23 16:49:14 INFO bibid entered : Bib_12404256
+20/01/23 16:49:14 INFO bibid entered : Bib_12404256
+20/01/23 16:49:14 INFO bibid entered : Bib_12404256
+20/01/23 16:49:14 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:49:14 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 531
+20/01/23 16:49:14 INFO bibid entered : Bib_12404258
+20/01/23 16:49:14 INFO bibid entered : Bib_12404258
+20/01/23 16:49:14 INFO bibid entered : Bib_12404258
+20/01/23 16:49:14 INFO bibid entered : Bib_12404258
+20/01/23 16:49:14 INFO bibid entered : Bib_12404258
+20/01/23 16:49:14 INFO bibid entered : Bib_12404258
+20/01/23 16:49:14 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:49:14 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 549
+20/01/23 16:49:14 INFO bibid entered : Bib_12404261
+20/01/23 16:49:14 INFO bibid entered : Bib_12404261
+20/01/23 16:49:14 INFO bibid entered : Bib_12404261
+20/01/23 16:49:14 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:49:14 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 596
+20/01/23 16:49:14 INFO bibid entered : Bib_12404262
+20/01/23 16:49:14 INFO bibid entered : Bib_12404262
+20/01/23 16:49:14 INFO bibid entered : Bib_12404262
+20/01/23 16:49:14 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:49:14 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 690
+20/01/23 16:49:14 INFO bibid entered : Bib_12404263
+20/01/23 16:49:14 INFO bibid entered : Bib_12404263
+20/01/23 16:49:14 INFO bibid entered : Bib_12404263
+20/01/23 16:49:14 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:49:14 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 610
+20/01/23 16:49:14 INFO bibid entered : Bib_12404264
+20/01/23 16:49:14 INFO bibid entered : Bib_12404264
+20/01/23 16:49:14 INFO bibid entered : Bib_12404264
+20/01/23 16:49:14 INFO bibid entered : Bib_12404264
+20/01/23 16:49:14 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:49:14 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 548
+20/01/23 16:49:14 INFO bibid entered : Bib_12404265
+20/01/23 16:49:14 INFO bibid entered : Bib_12404265
+20/01/23 16:49:14 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:49:15 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 622
+20/01/23 16:49:15 INFO bibid entered : Bib_12404266
+20/01/23 16:49:15 INFO bibid entered : Bib_12404266
+20/01/23 16:49:15 INFO bibid entered : Bib_12404266
+20/01/23 16:49:15 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:49:15 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 472
+20/01/23 16:49:15 INFO bibid entered : Bib_12404267
+20/01/23 16:49:15 INFO bibid entered : Bib_12404267
+20/01/23 16:49:15 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:49:16 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 608
+20/01/23 16:49:16 INFO bibid entered : Bib_12404268
+20/01/23 16:49:16 INFO bibid entered : Bib_12404268
+20/01/23 16:49:16 INFO json pack processed
+20/01/23 16:49:16 INFO input references no.:20
+20/01/23 16:49:16 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:52:28 DEBUG https://irefservices.icodex.in:443 "POST /find/references HTTP/1.1" 200 145115
+20/01/23 16:52:28 INFO bibid entered : Bib_12404268
+20/01/23 16:52:28 INFO bibid entered : Bib_12404268
+20/01/23 16:52:28 INFO bibid entered : Bib_12404268
+20/01/23 16:52:28 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:52:29 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 585
+20/01/23 16:52:29 INFO bibid entered : Bib_12404270
+20/01/23 16:52:29 INFO bibid entered : Bib_12404270
+20/01/23 16:52:29 DEBUG Starting new HTTPS connection (1): irefservices.icodex.in:443
+20/01/23 16:52:29 DEBUG https://irefservices.icodex.in:443 "POST /iref/reference/restructure HTTP/1.1" 200 572
+20/01/23 16:52:29 INFO bibid entered : Bib_12404271
+20/01/23 16:52:29 INFO bibid entered : Bib_12404271
+20/01/23 16:52:29 INFO bibid entered : Bib_12404271
+20/01/23 16:52:29 INFO bibid entered : Bib_12404271
+20/01/23 16:52:29 INFO Exception: 'str' object has no attribute 'get'

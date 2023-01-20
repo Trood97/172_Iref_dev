@@ -4,6 +4,13 @@ from modules.ExternalServices import ExternalServs
 from modules.similarityscore import similaritycheck
 from fastapi.middleware.cors import CORSMiddleware
 
+import logging
+
+logging.basicConfig(filename='logs.txt', filemode='a', level=10,
+                    format='%(asctime)s %(levelname)s %(message)s',
+                    datefmt='%d/%m/%y %H:%M:%S')
+logging.info('\n')
+
 app = fastapi.FastAPI()
 
 
@@ -22,6 +29,7 @@ class Reference(BaseModel):
 @app.post('/ref')
 async def post_Reference(reference:Reference):
     try:
+        logging.info('Entered post reference module')
         ref = reference.reference
         a = ExternalServs()
         final_output = []
@@ -34,9 +42,12 @@ async def post_Reference(reference:Reference):
             print(v)
             print('####')
         bibid = ''
+        logging.info('reflist is ready for web scraping(External Search)')
         for i in flist:
+            logging.info(f'input references no.:{len(i)}')
             js = a.ExternalSearch(i)
             for pq in js:
+                logging.info(f'bibid entered : {bibid}')
                 if pq.get('InternalBibId') == bibid:
                     continue
                 if pq.get('CompleteReference') == 'true' and pq.get('SearchSystem') == 'PubMed':
@@ -539,10 +550,11 @@ async def post_Reference(reference:Reference):
                 print('*******')
 
             print('#####################################')
-            ls = []
-
+            logging.info('json pack processed')
+        logging.info('exiting program execution')
         return {"Success": "true", "output": final_output}  # dispalying final output
 
-    except:
+    except Exception as e:
+        logging.info(f'Exception: {e}')
         return 'some error occured, please try again'
 
