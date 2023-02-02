@@ -6,6 +6,8 @@ from fastapi.middleware.cors import CORSMiddleware
 
 import logging
 
+#dev2 has made some changes
+
 logging.basicConfig(filename='logs.txt', filemode='a', level=10,
                     format='%(asctime)s %(levelname)s %(message)s',
                     datefmt='%d/%m/%y %H:%M:%S')
