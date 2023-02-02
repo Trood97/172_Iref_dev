@@ -6,6 +6,8 @@ from fastapi.middleware.cors import CORSMiddleware
 
 import logging
 
+#Trood97 from local says hi!!!
+
 logging.basicConfig(filename='logs.txt', filemode='a', level=10,
                     format='%(asctime)s %(levelname)s %(message)s',
                     datefmt='%d/%m/%y %H:%M:%S')
